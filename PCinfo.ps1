@@ -1,5 +1,5 @@
 ﻿#name: PCinfo
-#script url: https://github.com/JesseVroon
+#script url: https://github.com/JesseVroon/Powershell
 #description: This script shows information about your computer.
 #version: 1.0.0
 #author: Jesse Vroon
